@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<h2>Shutterstock Tag Scraper</h2>
-		<form action="curl.php" method="get">
+		<form action="index.php" method="get">
 			<input type="text" name="url" id="url" placeholder="URL to page to scrape" />
 			<input type="submit" />
 		</form>
